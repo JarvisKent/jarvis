@@ -1,20 +1,19 @@
 {
     "avatar": "http://ww2.sinaimg.cn/small/74990035jw1f1rjkd681bj20rs0rsdhg.jpg",
-    "name": "你的大名",
-	"tag": "Web前端/iOS/技术宅",
-    "desc": "你的简介（建议一两句话）",
+    "name": "Jarvis",
+	"tag": "Web/Android",
+    "desc": "我就是我，是颜色不一样的花火！",
     "skills": {
-        "Javascript": 8,
-		"Python": 6,
-		
+        "JAVA": 6,
+		"Android": 6,
+		"Python": 3,
 		"invisible-split-line-1": -1,
-
-		"Node.js": 4
+		"Node.js": 1
     },
     "projects": [{
-		"name": "你的项目A",
+		"name": "行长驾驶舱",
 		"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
-		"tags": ["2016年", "项目标签"],
+		"tags": ["2015年", "Android"],
 		"description": "你的项目A的简介",
 		"link_text": "网站链接",
 		"link": "https://dribbble.com/"
