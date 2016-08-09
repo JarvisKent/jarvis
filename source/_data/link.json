@@ -1,0 +1,10 @@
+{
+    "social": {
+        "github": "https://github.com/JarvisKent",
+		"rss": "/atom.xml"
+    },
+    "extern": {
+	    "余延平的记事本": "http://www.yuyanping.com",
+		"匠心写作": "http://gank.io/post/published"
+    }
+}
