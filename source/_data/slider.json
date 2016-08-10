@@ -1,19 +1,19 @@
 [{
     "image": "http://obl32g9cf.bkt.clouddn.com/bg1.jpg",
     "align": "center",
-    "title": "This is our big Tagline!",
-    "subtitle": "Here's our small slogan.",
-	"link": "/"
+    "title": "rabbit MQ 入门指南",
+    "subtitle": "由浅入深的学习怎么使用rabbitMQ。",
+	"link": "http://huangzihao.me/rabbitMQ/rabbitMQ%E5%85%A5%E9%97%A8%E5%8F%8A%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"
 }, {
     "image": "http://obl32g9cf.bkt.clouddn.com/bg2.jpg",
     "align": "left",
-    "title": "Left Aligned Caption",
-    "subtitle": "Here's our small slogan.",
-	"link": null
+    "title": "设计模式学习手册",
+    "subtitle": "设计模式的学习笔记，预先了解模式的应用.",
+	"link": "http://huangzihao.me/Designpattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%94%E8%AE%B0/"
 }, {
     "image": "http://obl32g9cf.bkt.clouddn.com/bg3.jpg",
     "align": "right",
-    "title": "Right Aligned Caption",
-    "subtitle": "Here's our small slogan.",
-	"link": null
+    "title": "Android群英传",
+    "subtitle": "Android群英传学习笔记.",
+	"link": "http://huangzihao.me/categories/Android%E7%BE%A4%E8%8B%B1%E4%BC%A0/"
 }]
