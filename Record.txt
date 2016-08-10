@@ -19,6 +19,8 @@ Android群英传
 
 effect java
 
+rabbitMQ
+
 反射 
 依赖注入
 
