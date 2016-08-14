@@ -1,5 +1,5 @@
 ---
-title: rabbitMQ的通信流程
+title: （2）、rabbitMQ的通信流程
 date: 2016-08-14 22:22:52
 categories: [rabbitMQ]
 tags: [rabbitMQ通信流程]

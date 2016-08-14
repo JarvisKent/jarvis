@@ -1,10 +1,10 @@
 ---
-title: rabbitMQ入门及环境搭建
+title: （1）、rabbitMQ入门及环境搭建
 date: 2016-08-10 09:36:16
 categories: [rabbitMQ]
 tags: [rabbitMQ环境搭建]
 ---
-因为项目需要接触到了rabbitMQ，在此之前没有接触过关于这方面的内容，所以打算记录下对rabbitMQ的学习历程，这一篇是个人对rabbitMQ的一些基础概念的了解和环境的搭建。<!-- more -->
+因为项目需要接触到了rabbitMQ，在此之前没有接触过关于这方面的内容，所以打算记录下对rabbitMQ的学习历程，这一篇是笔者对rabbitMQ的一些基础概念的了解和环境的搭建。<!-- more -->
 
 # 一、rabbitMQ
 
