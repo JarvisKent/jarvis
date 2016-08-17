@@ -29,3 +29,5 @@ rabbitMQ
 在用户登录的逻辑中，有哪些需要注意的，本地cookie应该如何保存才不会造成异常；
 在做网络请求操作中的细节有哪些，又有些什么需要注意的；
 Handle机制交互时，究竟做了哪些操作，这些和广播的原理又有什么区别。
+
+https://github.com/getlantern/forum   lantern下载地址
