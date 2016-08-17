@@ -6,39 +6,69 @@
     },
     "contents": {
         "readed": [{
-            "title": "众妙之门：网站UI设计之道",
-            "cover": "http://img3.douban.com/lpic/s23139051.jpg",
-            "review": "推荐非UI人士了解UI阅读。",
-            "score": "7",
-            "doubanLink": "http://book.douban.com/subject/20281463/"
-        }, {
-            "title": "JavaScript模式",
-            "cover": "http://img5.douban.com/lpic/s11337059.jpg",
-            "review": "书很薄，但内容相当实用。",
-            "score": "8.5",
-            "doubanLink": "http://book.douban.com/subject/11506062/"
-        }, {
-            "title": "JavaScript语言精粹",
-            "cover": "http://img3.douban.com/lpic/s11373174.jpg",
-            "review": "这是一本前端人员的基础书，强烈推荐阅读，而且越早看受益越多！",
-            "score": "9.5",
-            "doubanLink": "http://book.douban.com/subject/11874748/"
+            "title": "走在人生边上",
+            "cover": "https://img3.doubanio.com/lpic/s3552626.jpg",
+            "review": "回答了神和鬼的问题，有关人的问题，灵与肉的斗争和统一，修身之道，人生的价值等。",
+            "score": "8.0",
+            "doubanLink": "https://book.douban.com/subject/2240482/"
+        },{
+            "title": "把时间当作朋友",
+            "cover": "https://img3.doubanio.com/lpic/s3778613.jpg",
+            "review": "从心智成长的角度来谈时间管理，指出时间管理是成功的关键所在。",
+            "score": "8.6",
+            "doubanLink": "https://book.douban.com/subject/3609132/"
+        },{
+            "title": "钱文忠解读《弟子规》",
+            "cover": "https://img3.doubanio.com/lpic/s4440785.jpg",
+            "review": "以《弟子规》原文内容包括为人子如何孝敬父母、友爱兄弟、待人接物、修身治学等为人处世应有的基本理念和规范为纲，充分融入对现实的深层次思考，穿插上百则故事和案例，精辟阐述儒家思想提倡的孝、悌、谨、信、泛爱众、亲仁和余力学文等思想，并解释这些行为规范对于现代人的巨大作用，针对目前社会中存在的诸多道德危机问题，提出建设性的解决之道。",
+            "score": "8.0",
+            "doubanLink": "https://book.douban.com/subject/4932848/"
+        },{
+            "title": "小王子",
+            "cover": "https://img1.doubanio.com/lpic/s1237549.jpg",
+            "review": "这本书是献给长成了大人的从前那个孩子。",
+            "score": "9.0",
+            "doubanLink": "https://book.douban.com/subject/1084336/"
+        },{
+            "title": "兔子什么都知道",
+            "cover": "https://img3.doubanio.com/lpic/s6787911.jpg",
+            "review": "这一定是全世界最温暖的童话。",
+            "score": "8.2",
+            "doubanLink": "https://book.douban.com/subject/6735972/"
+        },{
+            "title": "2018",
+            "cover": "https://img3.doubanio.com/lpic/s27774946.jpg",
+            "review": "看得停不下来的科幻故事",
+            "score": "8.1",
+            "doubanLink": "https://book.douban.com/subject/26210632/"
+        },{
+            "title": "第一行代码",
+            "cover": "https://img3.doubanio.com/lpic/s28351121.jpg",
+            "review": "Android初学者的最佳入门书。",
+            "score": "8.4",
+            "doubanLink": "https://book.douban.com/subject/25942191/"
         }],
 		
 		"reading": [{
-            "title": "网络游戏核心技术与实战",
-            "cover": "http://img4.douban.com/lpic/s27881888.jpg",
-            "review": "",
-            "score": null,
-            "doubanLink": "http://book.douban.com/subject/25850090/"
+            "title": "大话数据结构",
+            "cover": "https://img3.doubanio.com/lpic/s6382631.jpg",
+            "review": "讲解数据结构和相关算法的知识",
+            "score": "8.0",
+            "doubanLink": "https://book.douban.com/subject/6424904/"
+        },{
+            "title": "Effective java",
+            "cover": "https://img3.doubanio.com/lpic/s3479802.jpg",
+            "review": "介绍了在Java编程中78条极具实用价值的经验规则。",
+            "score": "9.1",
+            "doubanLink": "https://book.douban.com/subject/3360807/"
         }],
 
         "wanted": [{
-            "title": "计算机程序的构造和解释",
-            "cover": "http://img4.douban.com/lpic/s1113106.jpg",
+            "title": "计算机网络：自顶向下方法",
+            "cover": "https://img3.doubanio.com/lpic/s3809370.jpg",
             "review": "",
-            "score": null,
-            "doubanLink": "http://book.douban.com/subject/1148282/"
+            "score": "8.8",
+            "doubanLink": "https://book.douban.com/subject/1391207/"
         }]
     }
 }
