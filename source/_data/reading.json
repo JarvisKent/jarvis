@@ -1,8 +1,8 @@
 {
     "define": {
-	    "readed": "已读",
-        "reading": "在读",
-        "wanted": "想读"
+	    "readed": "非计算机相关",
+        "reading": "正确读的书",
+        "wanted": "计算机相关书籍"
     },
     "contents": {
         "readed": [{
@@ -41,7 +41,11 @@
             "review": "看得停不下来的科幻故事",
             "score": "8.1",
             "doubanLink": "https://book.douban.com/subject/26210632/"
-        },{
+        }],
+		
+	
+
+        "wanted": [{
             "title": "第一行代码",
             "cover": "https://img3.doubanio.com/lpic/s28351121.jpg",
             "review": "Android初学者的最佳入门书。",
@@ -53,9 +57,14 @@
             "review": "Android初学者的最佳入门书。",
             "score": "8.5",
             "doubanLink": "适合所有对Android及移动开发感兴趣的读者，需要一定的Java编程基础。"
+        },{
+            "title": "计算机科学概论",
+            "cover": "https://img3.doubanio.com/lpic/s5989750.jpg",
+            "review": "全面而细致地介绍了计算机科学的各个方面，适合想了解计算机科学概括的人。",
+            "score": "8.8",
+            "doubanLink": "https://book.douban.com/subject/1435554/"
         }],
-		
-		"reading": [{
+            "reading": [{
             "title": "大话数据结构",
             "cover": "https://img3.doubanio.com/lpic/s6382631.jpg",
             "review": "讲解数据结构和相关算法的知识",
@@ -67,14 +76,12 @@
             "review": "介绍了在Java编程中78条极具实用价值的经验规则。",
             "score": "9.1",
             "doubanLink": "https://book.douban.com/subject/3360807/"
-        }],
-
-        "wanted": [{
-            "title": "计算机网络：自顶向下方法",
-            "cover": "https://img3.doubanio.com/lpic/s3809370.jpg",
-            "review": "",
-            "score": "8.8",
-            "doubanLink": "https://book.douban.com/subject/1391207/"
+        },{
+            "title": "流血的仕途",
+            "cover": "https://img1.doubanio.com/lpic/s2557689.jpg",
+            "review": "这本书试图采用镜像法则，站在李斯的角度，以正史记载为基准，正史不到之处，则辅以合理的推断和揣摩，接续空白，贯穿前后，对李斯的一生进行详细还原，使之丰满而完整。",
+            "score": "8.2",
+            "doubanLink": "https://book.douban.com/subject/2133254/"
         }]
     }
 }
