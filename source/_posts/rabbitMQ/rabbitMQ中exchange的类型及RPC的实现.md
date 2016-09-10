@@ -1,6 +1,6 @@
 ---
 title: （3）、exchange类型的使用及RPC的实现.md
-date: 2016-08-16 23:00:05
+date: 2016-08-15 23:00:05
 categories: [rabbitMQ]
 tags: [exchange的类型及RPC的实现]
 ---

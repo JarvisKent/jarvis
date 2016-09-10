@@ -47,6 +47,12 @@
             "review": "Android初学者的最佳入门书。",
             "score": "8.4",
             "doubanLink": "https://book.douban.com/subject/25942191/"
+        },{
+            "title": "Android编程权威指南",
+            "cover": "https://img3.doubanio.com/lpic/s28342615.jpg",
+            "review": "Android初学者的最佳入门书。",
+            "score": "8.5",
+            "doubanLink": "适合所有对Android及移动开发感兴趣的读者，需要一定的Java编程基础。"
         }],
 		
 		"reading": [{
