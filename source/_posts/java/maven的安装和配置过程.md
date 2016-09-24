@@ -6,7 +6,7 @@ tags: [maven]
 
 # 一、maven的下载及环境变量的配置
 
-本篇建立在不使用myeclipse自带的maven上，如果是使用自带的maven可直接看第四步。
+本篇建立在不使用myeclipse自带的maven上，如果是使用自带的maven可直接看第四步。<!--more -->
 
 ## 1、下载
 
