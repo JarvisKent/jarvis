@@ -7,6 +7,9 @@ tags: [maven]
 项目开发了一段时间决定要加入maven的支持，然后就找到了下面的方法。<!--more-->
 
 # 方法之一
+
+右键点击项目，选择Maven4MyEclipse 添加maven依赖，MyEclipse就会自动配置好maven并生成pom.xml。（因为MyEclipse中的maven被我改成了最新版才有这个选项，MyEclipse自带的maven可能没有该选项）
+# 方法之二
 对项目添加maven需要以下几个步骤。
 
 
@@ -33,7 +36,7 @@ path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
 
 - 在项目的根目录下添加pom.xml文件（直接复制别的项目的pom.xml文件需要修改pom.xml中的**groupId和artifactId**）
 
-# 方法之二
+# 方法之三
 
 新建一个maven的项目，比对一下.classpath和.project两个文件内容，将其中和maven相关的依赖copy过去到对应的标签下再添加一下pom.xml文件就可以了。
 
