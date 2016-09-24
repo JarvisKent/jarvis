@@ -8,22 +8,22 @@
 		"Android": 6,
 		"Python": 3,
 		"invisible-split-line-1": -1,
-		"Node.js": 1
+		"rabbitMQ": 8
     },
     "projects": [{
 		"name": "行长驾驶舱",
-		"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
+		"image": "http://obl32g9cf.bkt.clouddn.com/about_cockpit.jpg",
 		"tags": ["2015年", "Android"],
-		"description": "你的项目A的简介",
-		"link_text": "网站链接",
-		"link": "https://dribbble.com/"
+		"description": "通过表格、图表的方式展示相应的业务数据，并能对页面进行截图及相应的批注和转发给指定人员。主要用到的框架有Gson、AChartEngine、Volley等。",
+		"link_text": "",
+		"link": ""
 	}, {
-		"name": "你的作品B",
-		"image": "https://d13yacurqjgara.cloudfront.net/users/4094/screenshots/2578885/time-lords-drib_1x.jpg",
-		"description": "你的作品B的简介",
-		"tags": ["Github", "设计"],
+		"name": "PasswordManager",
+		"image": "http://obl32g9cf.bkt.clouddn.com/main.png",
+		"description": "一个密码管理的app，主要用于熟悉material design风格的样式，数据保存在sqlite中，界面添加了侧滑菜单/悬浮按钮/沉浸式状态栏（仅4.4及以上系统支持），条目右滑功能等等。用到的组件有：ToolBar、CardView、RecycleView、FloatingActionButton、MaterialDrawer、AndroidSwipeLayout",
+		"tags": ["Github", "练手"],
 		"link_text": "Github地址",
-		"link": "https://github.com/"
+		"link": "https://github.com/JarvisKent/PasswordManager"
 	}],
 	"reward": [
 	    "http://obl32g9cf.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1.png",
