@@ -21,9 +21,16 @@
 		"name": "PasswordManager",
 		"image": "http://obl32g9cf.bkt.clouddn.com/main.png",
 		"description": "一个密码管理的app，主要用于熟悉material design风格的样式，数据保存在sqlite中，界面添加了侧滑菜单/悬浮按钮/沉浸式状态栏（仅4.4及以上系统支持），条目右滑功能等等。用到的组件有：ToolBar、CardView、RecycleView、FloatingActionButton、MaterialDrawer、AndroidSwipeLayout",
-		"tags": ["Github", "练手"],
+		"tags": ["2016年", "练手"],
 		"link_text": "Github地址",
-		"link": "https://github.com/JarvisKent/PasswordManager"
+		"link": "https://github.com/JarvisKent/PasswordManager.git"
+	}, {
+		"name": "WebService框架",
+		"image": "http://obl32g9cf.bkt.clouddn.com/bg1.jpg",
+		"description": "一个用CXF+Spring+Maven+log4j搭建的WebService基础框架，可用于项目开发中，访问WebService的信息以日志文件的形式保存。",
+		"tags": ["2016年", "WebService"],
+		"link_text": "Github地址",
+		"link": "https://github.com/JarvisKent/WebService.git"
 	}],
 	"reward": [
 	    "http://obl32g9cf.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1.png",
